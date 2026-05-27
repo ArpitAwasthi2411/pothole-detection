@@ -92,7 +92,7 @@ All models trained with:
 
 ## 🖼️ Detection Samples
 
-> Pothole detections on custom mountain terrain test images
+> Pothole detections on test images
 
 <!-- Add detection sample images here after training -->
 ![Detection Samples](images/detections.png)
